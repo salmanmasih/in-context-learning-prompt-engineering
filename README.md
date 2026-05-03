@@ -31,17 +31,7 @@ The assignment explores how different prompting strategies affect LLM behavior, 
 ## 📂 Project Structure
 
 * `notebooks/` → Jupyter notebook containing full solution
-* `requirements.txt` → dependencies
 
-## ▶️ How to Run
-
-1. Install dependencies:
-
-   ```
-   pip install -r requirements.txt
-   ```
-2. Set your IBM Watsonx credentials
-3. Run the notebook
 
 ## 📌 Notes
 
